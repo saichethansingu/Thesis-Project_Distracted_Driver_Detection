@@ -1,0 +1,1 @@
+Built a Deep Neural Network Model for driver distraction detection. By using the State Farm dataset, several deep learning models were implemented i.e Vanilla CNN, Xception, Mobile Net, ResNet50 and VGG16. The models were implemented and analyzed in detecting distraction on driver activities and its performances were Tabulated.
